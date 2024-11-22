@@ -1,4 +1,7 @@
-import React, { useState, useEffect } from 'react';
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { PlusIcon, UserGroupIcon, BeerIcon } from '@heroicons/react/24/outline';
 
